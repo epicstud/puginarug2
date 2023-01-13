@@ -10,6 +10,7 @@ const levels = {
   10: "Jr Honoror",
   15: "Master Honoror",
   35: "S Tier Honoror",
+  45: "Berry Tier Honoror",
   65: "Junior Acolyte",
   105: "Acolyte",
   150: "Senior Acolyte",
